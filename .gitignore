@@ -1,0 +1,31 @@
+# Python / Jupyter
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+*.pyo
+
+# Cache and temporary files
+cache/
+
+# Virtual environments
+.env/
+venv/
+.venv/
+
+# ML data files (raw or large)
+data/
+*.csv
+*.xlsx
+*.zip
+*.pkl
+*.npy
+*.npz
+*.h5
+
+# Model checkpoints
+models/
+
+# OS files
+.DS_Store
+Thumbs.db
+
